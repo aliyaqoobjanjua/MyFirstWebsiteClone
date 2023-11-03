@@ -1,0 +1,186 @@
+*{
+margin: 0;
+padding: 0;
+}
+.Navbar{height: 65px; background-color: rgb(242,89,35);width: auto;display: flex; box-shadow: rgba(242, 89, 35, 1); position: fixed;width: 100%; }
+.logo{height: 65px; width: 507px;}
+.image{height: 389px; width: 45px;}
+.image a{height: 45px;width: 298px;}
+#ale{margin-top: 14px; margin-left:60px ;}
+#alee{
+    color: white; display: inline-block; margin-right: 120px; font-size: 18px; margin-left: 100px; margin-top: 10px;
+}
+.heading{margin-top: 14px; display: flex ; justify-content: space-around; height: 65px ;}
+.heading p{ display: flex; justify-content: space-around; gap: 20px;}
+
+.box2{height: 600px; width: auto; background-color: rgb(242,89,35) ; display: flex; justify-content: center; align-items: center; justify-content: center;}
+.box3{height: 70px; background-color:  rgb(242,89,35); justify-content: center; }
+#box1{font-size: 65px; color: white; text-align: center; justify-content: center;}
+.box3 h2{color: white; font-size: 95px; margin-bottom: 50px;}
+#section{height: 630px; background-color: white; display: flex; flex-wrap: wrapx; margin-top: 100px; }
+.sec1{width: 630px; height: 630px; background-color: white; margin-left: 100px; padding: 0px 0px 0px 20px;}
+.sec2{width: 600px; height: 196px; background-color: white ; margin-top: 30px;}
+.sec2 h2{font-size: 50px;}
+.p
+{background-color: white; height: 85px; width: 600px; margin-top: 30px;}
+.p p{color: black; font-size: 22px;}
+.pp{height: 60px; width: 600px; margin-top: 30px; background-color: white;}
+.pp p{font-size: 19px; color: black;}
+.ppp{height: 100px; width: 600px; background-color: white; margin-top: 20px;}
+.ppp p{font-size: 22px; color:black;}
+.pppp{height:70px ; width: 600px; background-color: white; margin-top: 5px;}
+button{width: 270px; height: 55px ;font-size: 19px; border-radius: 10px; margin-top: 7px; border-color: solid black; background-color: white;}
+button:hover{color:  rgb(242,89,35)  ;}
+#ptwo{height: 630px; width: 600px; background-color:white;margin-right: 40px; margin-left:85px ;}
+.pic{height: 580px ; width: 580 ; background-color: orange; margin: 15px 15px; border-radius: 10px; background-image: url(campaign-creators-gMsnXqILjp4-unsplash.jpg); background-size: cover;}
+#wed{background-color: white; height: 750px; display: flex; justify-content: space-around; margin-top: 150px; flex-wrap: wrap;}
+#wed1{width: 380px; height: 577px; background-color: white ;margin-top: 20px; margin-left: 50px; }
+.wed2{height: 430px; width: 379px; background-color: white; margin-top: 40px; }
+.wed3{height: 430px; width: 379px; background-color: white; margin-top: 40px; }
+.wed4{height: 430px; width: 379px; background-color: white; margin-top: 40px; }
+.wed2{background-image: url(agefis-vKvUcdyaUhc-unsplash.jpg); background-size: cover; border-radius: 10px;}
+.wed3{background-image: url(docusign-BbSBf5uv50A-unsplash.jpg); background-size: cover; border-radius: 10px;}
+.wed4{background-image: url(john-schnobrich-FlPc9_VocJ4-unsplash.jpg); background-size: cover; border-radius: 10px;}
+figcaption{text-align: center; margin-top: 45px; font-size: 20px; color: #000000;}
+#cap{text-align: center; margin-top: 45px; font-size: 20px; color: #000000;}
+#cap1{text-align: center; margin-top: 45px; font-size: 20px; color: #000000;}
+#bs{background-color:white; height: 940px; padding: 0px 70px; display: flex; flex-wrap: wrap;}
+.bs1{background-color: white; height: 940px; width: 1240px;padding: 0px 70px; }
+.upper{background-color: white; width: 1240px; height: 250px; display: flex; justify-content: center; align-items: center;}
+#btns{color: #000000; font-size: 17px;font-weight: 500;}
+#btns:hover{color: rgb(242,89,35) ;border-color:  rgb(242,89,35);}
+.daba1{background-color: white ; width: 560px; height:194px; margin-top: 20px;margin-left: 35px;}
+.daba1 h2{font-size: 30px; color: #000000; padding-left: 35% ;}
+.daba1 p{color: #000000; font-size: 20px; padding-left: 25px;}
+.maindaba{height: 220px; width: 1240px; background-color:white; display:  flex; flex-wrap: wrap;}
+.daba2{background-color:white ; width: 560px; height:194px; margin-top: 20px; margin-left: 50px;}
+.daba2 h2{font-size: 30px; color: #000000; padding-left: 30% ;}
+.daba2 p{color: #000000; font-size: 20px; padding-left: 25px; padding-top: 20px;} 
+.row{width: 1240px;height: 320px; background-color: white; display: flex; justify-content: space-evenly;}
+.row1{ width: 230px; height:285px; background-color:white ; margin-top: 30px;}
+.row2{ width: 230px; height:285px; background-color: white; margin-top: 30px; margin-left: 15px;}
+.row3{ width: 230px; height:285px; background-color: white; margin-top: 30px;margin-left: 15px;}
+.row4{ width: 230px; height:285px; background-color:white ; margin-top: 30px; margin-left: 15px;}
+.row5{ width: 230px; height:285px; background-color: white; margin-top: 30px; margin-left: 15px;}
+.row1 h2{font-size: 115px; color: #000000; text-align: center;}
+.row1 p{font-size: 20px; color: #000000; text-align: center;}
+.row1 h3{color: #f25923; font-size: 24px; text-align: center; margin-top: 10px;}
+#raja{font-size: 17px; color: #000000 ; margin-top: 20px;}
+.row2 h2{font-size: 115px; color: #000000; text-align: center;}
+.row2 p{font-size: 20px; color: #000000; text-align: center;}
+.row2 h3{color: #6d0084; font-size: 24px; text-align: center; margin-top: 10px;}
+#janjua{font-size: 17px; color: #000000 ; margin-top: 20px;}
+.row3 h2{font-size: 115px; color: #000000; text-align: center;}
+.row3 p{font-size: 20px; color: #000000; text-align: center;}
+.row3 h3{color: #2a449c; font-size: 24px; text-align: center; margin-top: 10px;}
+#rajpoot{font-size: 17px; color: #000000 ; margin-top: 20px;}
+.row4 h2{font-size: 115px; color: #000000; text-align: center;}
+.row4 p{font-size: 20px; color: #000000; text-align: center;}
+.row4 h3{color: #20649f; font-size: 24px; text-align: center; margin-top: 10px;}
+#malik{font-size: 17px; color: #000000 ; margin-top: 20px;}
+.row5 h2{font-size: 115px; color: #000000; text-align: center;}
+.row5 p{font-size: 20px; color: #000000; text-align: center;}
+.row5 h3{color: #3a8476; font-size: 24px; text-align: center; margin-top: 10px;}
+#butt{font-size: 17px; color: #000000 ; margin-top: 20px;}
+.lastbtn{width: 1240px; height: 150px; background-color: white; display: flex; justify-content: center; align-items: center;}
+#pixel{font-size: 17px; color: #000000; }
+#pixel:hover{color: #f25923; border-color: #f25923;}
+.partthree{background-color: white; display: flex; height: 625px; justify-content: center; gap: 40px; margin-top: 20px; flex-wrap: wrap;}
+.ptone{background-color:white; height: 605px; width: 630px; margin-top: 20px; border-radius:15px ;}
+.pttwo{background-color:white; height: 605px; width: 630px;margin-top: 20px;}
+.ptone h2{font-size: 60px; color: #000000;padding: 35px 0px 0px 35px;}
+.ptone h6{font-size: 57px; font-weight: 500; line-height: 1.2em; padding: 35px 0px 0px 35px;}
+.mehar{border-radius: 10px; border-color: solid black; }
+#arain{padding-top: 30px; padding-left: 35px;}
+.pttwo{background-image: url(studio-republic-fotKKqWNMQ4-unsplash.jpg); background-size: cover; border-radius: 15px;}
+.partfour{height: 580px; background-color:white; display: flex;margin-top: 50px; justify-content: center; gap: 40px; margin-top: 100px;}
+.pfone{background-color:white; height: 550px; width: 630px; margin-top: 20px; border-radius:15px ;}
+.pftwo{background-color:white; height: 550px; width: 630px; margin-top: 20px; border-radius:15px ;}
+.pfone{background-image: url(mario-gogh-VBLHICVh-lI-unsplash.jpg); background-size: cover;}
+.pftwo h2{font-size: 43px; color: #000000; padding-top: 40px; padding-left: 35px;}
+.pftwo h3{font-size: 25px; color: #000000; padding-top: 65  px; padding-left: 35px; padding-right: 20px; margin-top: 35px; }
+#sian{font-size: 23px; color: #000000; padding-left: 35px; margin-top: 100px;}
+#sian a:visited{color: #f25923 ;}
+#sian a:hover{color: #3a8476;}
+#sian a:active{color: #20649f ;}
+#sian a:active{color: #f25923 ;}
+#morenews{ padding-left: 35px; padding-top: 45px;}
+.boxheading{background-color: #f25923; height: 450px; width: auto; padding:  0px 100px;  justify-content: center; margin-top: 30px; }
+.bhpo{width: 80%; height: 150px; background-color:#f25923; padding-left: 30px; margin-left: 50px;}
+.bhpo h4{font-size: 57px; color: #ffffff; text-align: center;}
+#aleeyaqoobjanjua{background-color:#f25923; width: auto; height: 275px; margin-top: 25px; display: flex; justify-content: space-evenly;}
+#ahc{width: 400px; height: 274px; background-color: #f25923;}
+#ms{width: 400px; height: 274px; background-color:#f25923;}
+#rb{width: 400px; height: 274px; background-color:#f25923;}
+#ahc h1{font-size: 25px ; color: #ffffff; margin-top: 35px;}
+#ahc p{font-size: 20px; color: #ffffff; margin-top: 70px;}
+#ms h1{font-size: 25px ; color: #ffffff; margin-top: 35px;}
+#ms p{font-size: 20px; color: #ffffff; margin-top: 70px;}
+
+#rb h1{font-size: 25px ; color: #ffffff; margin-top: 35px;}
+#rb p{font-size: 20px; color: #ffffff; margin-top: 70px;}
+.isha{background-color: #ffffff; height: 590px; display: flex; justify-content: center; gap: 40px; margin-top: 70px;}
+.ishaazan{background-color: #ffffff; height: 550px; width: 610px; border-radius: 15px; margin-top: 20px;}
+.ishaj{background-color: #ffffff; height: 550px; width: 610px; border-radius: 15px; margin-top: 20px;}
+.ishaazan{background-image: url(christina-wocintechchat-com-6Dv3pe-JnSg-unsplash.jpg); background-size: cover;}
+.ishaj h1{color: #000000 ; font-size: 3.5rem; font-weight: bold; line-height: 1.1em; padding-left:50px; text-align: center;}
+.ishaj p{ color: #000000; font-size: 23px; margin-top: 80px; text-align: center;}
+#ishabutton{color: #000000; margin-top: 100px; margin-left: 170px;}
+#ishabutton:hover{color: #f25923;}
+#logoes{height: 100px; width: auto; background-color: white; margin-top: 40px;}
+.logoes{height: 80px; width: auto; background-color: white; margin-top: 20px; display: flex; justify-content: center; align-items: center;}
+.logoes h1{color: #000000; font-size: 50px; font-weight: 700;}
+#linelogos{height: 90px; width: auto; background-color: white; display: flex; margin-top: 40px; justify-content: space-evenly;align-items: center;padding: 0px 50px 0px 50px;}
+#logoone{background-color: white; height: 72px; width: 250px;}
+#logotwo{background-color: white; height: 72px; width: 250px;}
+#logothree{background-color: white; height: 72px; width: 250px;}
+#logofour{background-color: white; height: 72px; width: 250px;}
+#logofive{background-color: white; height: 72px; width: 250px;}
+#logoone{background-size: cover;}
+#logotwo{background-size: cover;}
+#logothree{background-size: cover;}
+#logofour{background-size: cover;}
+#logofive{background-size: cover;}
+.secline{display: flex;width: auto; height: 175px; background-color: white; padding: 0px 50px 0px 50px; justify-content: space-evenly; padding-top: 28px;}
+.slone{ height: 163px; width: 163px; background-color:  white; background-size: cover;}
+.sltwo{   height: 163px; width: 163px; background-color:  white;background-size: cover;}
+.slthree{   height: 110px; width: 196px; background-color: white;background-size: cover;}
+.slfour{   height: 163px; width: 163px; background-color:  white;background-size: cover;}
+.slfive{   height: 163px; width: 163px; background-color:  white;background-size: cover;}
+.thirdline{display: flex;width: auto; height: 175px; background-color:white ;padding: 0px 50px 0px 50px; justify-content:space-evenly; padding-top: 50px; }
+.tlone{ height: 163px; width: 163px; background-color:  white; background-size: cover;}
+.tltwo{ height: 163px; width: 163px; background-color:   white; background-size: cover;}
+.tlthree{ height: 163px; width: 163px; background-color:    white; background-size: cover;}
+.tlfour{ height: 163px; width: 163px; background-color:    white; background-size: cover;}
+.tlfive{ height: 163px; width: 163px; background-color:    white; background-size: cover;}
+.fourline{display: flex;width: auto; height: 175px; background-color:white ;padding: 0px 50px 0px 50px; justify-content:space-evenly; padding-top: 50px; }
+.flone{ height: 163px; width: 163px; background-color:  white; background-size: cover;}
+.fltwo{ height: 163px; width: 163px; background-color:   white; background-size: cover;}
+.flthree{ height: 163px; width: 163px; background-color:   white; background-size: cover;}
+.flfour{ height: 163px; width: 163px; background-color:  white ; background-size: cover;}
+.flfive{ height: 163px; width: 163px; background-color:   white; background-size: cover;}
+.hf{background-color: white; width: auto;height: 50px;  display: flex; justify-content: center; align-items: center ;}
+.hf h4{font-size: 40px;color: #000000;font-weight: bold;}
+.emti{background-color: white;width: auto; height: 125px;}
+.dyw{background-color: white;display: flex; width: auto;height: 125px; justify-content: center; align-items: center;}
+.dyw h4{font-size: 40px;color: #000000;font-weight: bold;}
+.wwo{background-color:white;display: flex; width: auto;height: 150px; justify-content: center; align-items: center;}
+#www{color: #f25923; border-color:#f25923; border-radius: 15px solid #f25923; font-size: 30px; width: 400px;}
+.soo{background-color: white; height: 100px; width: auto;}
+.sh{background-color: #f25923; display: flex; padding: 0px 25px; width: auto; height: 450px; justify-content: center; gap: 55px;}
+.sho{background-color: #f25923; height: 300px; width: 600px; margin-top: 25px;}
+.sht{background-color:#f25923; height:300px; width:600px;margin-top:25px;}
+.sho ul{ list-style-type: none; color: white; font-size: 28px; margin-top: 30px; font-weight: bold;}
+.sho ul li{margin-top: 30px; padding-left: 70px;}
+.sht{font-size: 50px; color: white; font-weight: bold;}
+.fter{height: 150px; width: auto; background-color:#f25923; display: flex; justify-content: space-evenly;  }
+.ftrone{height: 80px; width: 200px; background-color:#f25923;margin-top: 40px;}
+.ftrtwo{height: 80px; width: 215px; background-color: #f25923;margin-top: 40px;}
+.ftrthree{height: 80px; width: 200px; background-color: #f25923;margin-top: 40px;}
+.ftrfour{height: 80px; width: 215px; background-color: #f25923;margin-top: 40px;}
+.ftrfive{height: 80px; width: 200px; background-color: #f25923;margin-top: 40px;}
+#mng{font-size: 17px; color: white; padding: 13px 20px; font-weight: bold;}
+
+
+
+
